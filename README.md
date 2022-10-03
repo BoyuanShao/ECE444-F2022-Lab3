@@ -10,3 +10,7 @@ Activity 2:
 Activity 3:
 
 <img width="1274" alt="Screen Shot 2022-10-03 at 3 00 50 PM" src="https://user-images.githubusercontent.com/59927679/193658399-d21d84f1-cdcc-46b8-aa19-4d02442cf307.png">
+
+Activity 4:
+
+<img width="878" alt="Screen Shot 2022-10-03 at 3 11 05 PM" src="https://user-images.githubusercontent.com/59927679/193659162-9f47a5aa-bae2-4d27-b548-9d133570bf21.png">
